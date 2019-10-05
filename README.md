@@ -1,2 +1,2 @@
 # UDchain
-Use and Define Chain in program
+it find the Use and Define Chain of varaibles in program
