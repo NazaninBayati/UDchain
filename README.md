@@ -1,2 +1,2 @@
 # UDchain
-it find the Use and Define Chain of varaibles in program
+This project aims to find the Use and Define Chain of varaibles in a program
